@@ -1,2 +1,2 @@
 # programming-bitcoin
-Programming bitcoin by Jimmy Song
+Programming bitcoin by Jimmy Song book
